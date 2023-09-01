@@ -2,3 +2,4 @@ ultralytics
 kaggle
 pybboxes
 datasets
+wandb
